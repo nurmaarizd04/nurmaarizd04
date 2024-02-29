@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ARIZD</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-<img aling="right" alt="coding" width="4004" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"></img>
+<img aling="right" alt="coding" width="400" height="200" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurmaarizd04&label=Profile%20views&color=0e75b6&style=flat" alt="nurmaarizd04" /> </p>
 
