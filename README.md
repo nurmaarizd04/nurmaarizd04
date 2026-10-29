@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2F81F7&height=220&section=header&text=Nur%20Ma'arizd&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Bogor,%20Indonesia&descSize=18&descAlignY=56" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2F81F7&height=230&section=header&text=Nur%20Ma'arizd&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Bogor,%20Indonesia&descSize=18&descAlignY=56" width="100%" alt="Header" />
 
 <div align="center">
 
@@ -13,7 +13,16 @@
   <a href="https://github.com/nurmaarizd04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-2F81F7?style=flat-square&labelColor=0D1117" alt="Experience" />
+  <img src="https://img.shields.io/badge/Projects-10%2B%20Delivered-2F81F7?style=flat-square&labelColor=0D1117" alt="Projects" />
+  <img src="https://img.shields.io/badge/Domains-Healthcare%20%E2%80%A2%20Fintech%20%E2%80%A2%20ERP-2F81F7?style=flat-square&labelColor=0D1117" alt="Domains" />
+  <img src="https://img.shields.io/badge/Architecture-Microservices-2F81F7?style=flat-square&labelColor=0D1117" alt="Architecture" />
+</p>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2F81F7,100:0F172A&height=2" width="100%" alt="" />
 
 ## 🧑‍💻 About Me
 
@@ -52,18 +61,31 @@ const arizd = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,bootstrap&theme=dark" alt="Frontend" />
+**🎨 Frontend**
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet&theme=dark" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,tailwind,bootstrap&perline=4&theme=dark" alt="Frontend" />
 
-**Database · DevOps · Tools**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,git,github,postman&theme=dark" alt="Database, DevOps and Tools" />
+</td>
+<td align="center" width="33%">
 
-</div>
+**⚙️ Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,php,laravel,dotnet&perline=3&theme=dark" alt="Backend" />
+
+</td>
+<td align="center" width="33%">
+
+**🗄️ Data & DevOps**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,rabbitmq,git,postman&perline=3&theme=dark" alt="Data and DevOps" />
+
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Work
 
@@ -72,6 +94,8 @@ const arizd = {
 <td width="50%" valign="top">
 
 ### 🏥 SIMRS Intrahospital
+<sub>PT IntraMedika · Full-Stack</sub>
+
 Hospital information system — end-to-end modules from UI to Oracle database, with async messaging via RabbitMQ.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -83,6 +107,8 @@ Hospital information system — end-to-end modules from UI to Oracle database, w
 <td width="50%" valign="top">
 
 ### 🛒 My Komodo
+<sub>PT Bigdata Media Teknologi · Backend</sub>
+
 Microservices backend — maintained Auth, Payment, Catalog & Chat; built new Feed, Storage, Support & Guard services.
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -96,6 +122,8 @@ Microservices backend — maintained Auth, Payment, Catalog & Chat; built new Fe
 <td width="50%" valign="top">
 
 ### 📦 ERP Harvest
+<sub>PT MOC Milenial Indonesia · Backend</sub>
+
 Modular ERP backend built from scratch for sales, production & warehouse operations.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -105,6 +133,8 @@ Modular ERP backend built from scratch for sales, production & warehouse operati
 <td width="50%" valign="top">
 
 ### 🧾 Pesona BPJS Kesehatan
+<sub>Freelance · Backend</sub>
+
 Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, deployed with CI/CD.
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -118,7 +148,7 @@ Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, d
 ## 💼 Experience
 
 <details open>
-<summary><b>PT IntraMedika</b> — Full-Stack Developer · <i>Jun 2026 – Present</i></summary>
+<summary>🟢 <b>PT IntraMedika</b> — Full-Stack Developer · <i>Jun 2026 – Present</i></summary>
 <br/>
 
 - Develop features across multiple SIMRS Intrahospital modules (React + NestJS + Oracle)
@@ -128,7 +158,7 @@ Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, d
 </details>
 
 <details>
-<summary><b>PT MOC Milenial Indonesia</b> — Backend Developer · <i>Feb 2026 – May 2026</i></summary>
+<summary>🔵 <b>PT MOC Milenial Indonesia</b> — Backend Developer · <i>Feb 2026 – May 2026</i></summary>
 <br/>
 
 - Built a modular ERP backend from scratch using Laravel & MySQL
@@ -137,7 +167,7 @@ Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, d
 </details>
 
 <details>
-<summary><b>PT Bigdata Media Teknologi</b> — Backend Developer · <i>Aug 2025 – Jan 2026</i></summary>
+<summary>🔵 <b>PT Bigdata Media Teknologi</b> — Backend Developer · <i>Aug 2025 – Jan 2026</i></summary>
 <br/>
 
 - Maintained and extended NestJS microservices: Authentication, Core, Payment, Catalog, Chat, Messaging
@@ -146,7 +176,7 @@ Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, d
 </details>
 
 <details>
-<summary><b>PT Mitra Inti Bersama</b> — Full-Stack Developer · <i>Aug 2022 – Jul 2025</i></summary>
+<summary>🔵 <b>PT Mitra Inti Bersama</b> — Full-Stack Developer · <i>Aug 2022 – Jul 2025</i></summary>
 <br/>
 
 - Integrated Pegadaian's official website with a CMS (React, Next.js)
@@ -159,18 +189,25 @@ Migrated a monolithic billing app to microservices, SQL Server → PostgreSQL, d
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurmaarizd04&theme=tokyonight" width="100%" alt="Profile details" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=nurmaarizd04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7" height="170" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmaarizd04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2F81F7" height="170" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=nurmaarizd04&theme=tokyonight&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nurmaarizd04&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=FFFFFF" width="100%" alt="Contribution graph" />
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2F81F7,100:0F172A&height=2" width="100%" alt="" />
 
 <div align="center">
 
 ### 💬 Let's build something great together!
+
+<a href="https://www.linkedin.com/in/nurma-arizd-881712248/">Connect on LinkedIn</a> ·
+<a href="mailto:nurmmaarizd@gmail.com">Send an Email</a>
+
+<br/><br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nurmaarizd04.nurmaarizd04&left_color=0D1117&right_color=2F81F7" alt="Visitor count" />
 
